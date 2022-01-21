@@ -18,7 +18,7 @@
 
 # ```BASE SC AYYONH```
 <p align="center">
-<a href="https://github.com/AYYONNIH/followers"><img title="Followers" src="https://img.shields.io/github/followers/AYYONNIH?color=red&style=flat-square"></a>
+<a href="https://ibb.co/q57hjRQ"?color=red&style=flat-square"
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zero-YT7/Base-ZeroYT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zero-YT7/Base-ZeroYT7?label=Watchers&color=blue&style=flat-square"></a>
