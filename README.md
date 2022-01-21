@@ -5,9 +5,9 @@
 
 <p align="center">
 
-- 👼 My name is Zero YT7
+- 👼 My name is Ayyonh
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 13 years old 
 
 - 🔭 I am Not programmer
  
@@ -16,9 +16,9 @@
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```BASE SC AYYONH```
 <p align="center">
-<a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
+<a href="https://github.com/AYYONNIH/followers"><img title="Followers" src="https://img.shields.io/github/followers/AYYONNIH?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/Base-ZeroYT7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zero-YT7/Base-ZeroYT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/Base-ZeroYT7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zero-YT7/Base-ZeroYT7?label=Watchers&color=blue&style=flat-square"></a>
@@ -70,29 +70,7 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
+git clone https://github.com/AYYONNIH/iyhbot
+cd ayyong
 npm install
 npm start
-```
-## For Windows
-```bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
-npm install
-npm start
-```
-## For VPS
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagemagick
-apt install bash
-git clone https://github.com/Zero-YT7/Base-ZeroYT7.git
-cd Base-ZeroYT7
-npm install
-npm start
-```
-
